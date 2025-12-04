@@ -1,7 +1,7 @@
 # Salut! 👋
 🙋 I'm Guillaume, a designer and (bad) front-end developer from Wales<br>
 💼 Web Designer @ Khthon | (Freelance) Creative Designer @ Media to Motion<br>
-📚 BSc (Hons.) Digital Media student at UWE Bristol<br>
+📚 BSc Digital Media student at UWE Bristol<br>
 ❓ Fun fact: I have no idea what I'm doing at the best of times (I also speak both English and French fluently)<br>
 
 ## 💻 Skill Stack
