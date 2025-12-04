@@ -1,4 +1,4 @@
-# Salute! 👋
+# Salut! 👋
 🙋 I'm Guillaume, a designer and (bad) front-end developer from Wales<br>
 💼 Web Designer @ Khthon | (Freelance) Creative Designer @ Media to Motion<br>
 📚 BSc (Hons.) Digital Media student at UWE Bristol<br>
